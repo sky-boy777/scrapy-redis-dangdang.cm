@@ -48,7 +48,7 @@ UA_LIST = [
 ROBOTSTXT_OBEY = False
 
 # 下载延迟
-DOWNLOAD_DELAY = 0
+DOWNLOAD_DELAY = 2
 
 # The download delay setting will honor only one of:
 # Enable or disable downloader middlewares

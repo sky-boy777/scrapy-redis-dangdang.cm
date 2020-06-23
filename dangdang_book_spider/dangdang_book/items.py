@@ -11,4 +11,5 @@ import scrapy
 class DangdangBookItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
+    # 呃
     pass
